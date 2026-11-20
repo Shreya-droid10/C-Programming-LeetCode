@@ -1,5 +1,6 @@
 # C Programming – LeetCode Assignment
-
+- **LeetCode Profile:** https://leetcode.com/u/HNmwlw8Ipm/
+  
 ## Project Description
 This repository contains solutions to 10 programming problems solved using the C programming language on the LeetCode platform.
 
